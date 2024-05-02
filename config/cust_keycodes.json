@@ -1,1 +1,70 @@
-[]
+[
+	{
+		"names": [
+			"LEFT_CONTROL(C)"
+		],
+		"description": "LEFT_CONTROL(C)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"LEFT_CONTROL(V)"
+		],
+		"description": "LEFT_CONTROL(V)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"LEFT_CONTROL(Z)"
+		],
+		"description": "LEFT_CONTROL(Z)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"LEFT_CONTROL(Y)"
+		],
+		"description": "LEFT_CONTROL(Y)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
