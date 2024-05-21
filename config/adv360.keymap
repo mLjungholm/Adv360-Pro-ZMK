@@ -40,11 +40,11 @@
 
         default_layer {
             bindings = <
-   &kp ESC  &kp N1  &kp N2  &kp N3            &kp N4  &kp N5                    &none                                                                                                &none       &kp N6                  &kp N7     &kp N8     &kp N9     &kp N0          &kp DEL
-  &kp CAPS   &kp Q   &kp D   &kp R             &kp W   &kp B                    &none                                                                                                &none        &kp J                   &kp F      &kp U      &kp P  &kp EQUAL           &tog 4
-   &kp TAB   &kp A   &kp S   &kp H             &kp T   &kp G                    &none              &kp LEFT_ALT             &none                              &none   &kp RALT      &none  &mt LS(Y) Y  &mt LEFT_PARENTHESIS N      &kp E      &kp O      &kp I           &tog 1
- &kp LSHFT   &kp Z   &kp X   &kp M             &kp C   &kp V                                                             &kp LCMD                  &kp RIGHT_COMMAND                              &kp K                   &kp L  &kp COMMA    &kp DOT      &none  &kp RIGHT_SHIFT
-     &none  &tog 3   &none   &none  &sk LEFT_CONTROL                    &kp BACKSPACE  &mt LEFT_SHIFT &sl ( 1 )  &sk LEFT_CONTROL                  &sk RIGHT_CONTROL  &kp ENTER  &kp SPACE                    &sk RIGHT_CONTROL  &kp RA(W)  &kp RA(Q)  &kp RA(Y)            &none
+   &kp ESC  &kp N1  &kp N2  &kp N3            &kp N4  &kp N5                    &none                                                                                    &none       &kp N6                   &kp N7     &kp N8     &kp N9     &kp N0          &kp DEL
+  &kp CAPS   &kp Q   &kp D   &kp R             &kp W   &kp B                    &none                                                                                    &none        &kp J                    &kp F      &kp U      &kp P  &kp EQUAL           &tog 4
+   &kp TAB   &kp A   &kp S   &kp H             &kp T   &kp G                    &none  &kp LEFT_ALT             &none                              &none   &kp RALT      &none  &mt LS(Y) Y  &mt RIGHT_PARENTHESIS N      &kp E      &kp O      &kp I           &tog 1
+ &kp LSHFT   &kp Z   &kp X   &kp M             &kp C   &kp V                                                 &kp LCMD                  &kp RIGHT_COMMAND                              &kp K                    &kp L  &kp COMMA    &kp DOT      &none  &kp RIGHT_SHIFT
+     &none  &tog 3   &none   &none  &sk LEFT_CONTROL                    &kp BACKSPACE         &sl 2  &sk LEFT_CONTROL                  &sk RIGHT_CONTROL  &kp ENTER  &kp SPACE                     &sk RIGHT_CONTROL  &kp RA(W)  &kp RA(Q)  &kp RA(Y)            &none
             >;
         };
 
